@@ -1,3 +1,4 @@
+import Footer from "./components/Footer";
 import InclusaoLivros from "./components/InclusaoLivros";
 import MenuSuperior from "./components/MenuSuperior";
 
@@ -6,6 +7,7 @@ function App() {
     <div className="App">
         <MenuSuperior/>
         <InclusaoLivros/>
+        <Footer/>
     </div>
   );
 }
