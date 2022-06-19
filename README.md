@@ -5,10 +5,15 @@ Stacks Front
 [x]React Icons(Material Design)
 []Chakra ui icons
 []React Hook Form
+[]React Toastify
+[]React Router 
+
 
 Stacks Back end 
 
-[] node
-[] express
+[x] node
+[x] express
 [] cors
 [] knex
+[] nodemon
+[] sqlite
